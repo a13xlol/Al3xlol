@@ -1,6 +1,6 @@
 from GitHub import ReadMe
 
-class Dropout(ReadMe):
+class Alexlol(ReadMe):
     "/Al3xlol/Al3xlol/README.md"
 
     def __init__(self):
