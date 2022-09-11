@@ -30,6 +30,6 @@ class Alexlol(ReadMe):
             "Alx"
         ]
         self.location = "Ireland"
-        self.age = "14, Born 11 September 2007"
+        self.age = "15, Born 11 September 2007"
         self.occupation = "Freelance Developer"
         self.operating_system = "windows, Linux"
