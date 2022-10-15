@@ -14,15 +14,13 @@
 
 
 ```py
-from GitHub import ReadMe
+from alexlol import aboutme
 
-class Alexlol(ReadMe):
-    "/Al3xlol/Al3xlol/README.md"
-
+class Alexlol(aboutme):
     def __init__(self):
         self.username = "Alexlol"
         self.contacts = {
-            "Discord": "alexlol#0001",
+            "Discord": "alexlol#9999",
             "Telegram": "alexlol99"
         }
         self.alises = [
