@@ -13,21 +13,15 @@
 <!-- GO CODE -->
 
 
-```py
-from alexlol import aboutme
+```js
 
-class Alexlol(aboutme):
-    def __init__(self):
-        self.username = "Alexlol"
-        self.contacts = {
-            "Discord": "alexlol#9999",
-            "Telegram": "alexlol99"
-        }
-        self.alises = [
-            "Alexlol",
-            "Alx"
-        ]
-        self.location = "Ireland"
-        self.age = "15, Born 11 September 2007"
-        self.occupation = "Freelance Developer"
-        self.operating_system = "windows, Linux"
+{
+    "username": "alexlol",
+    "Discord": "alexlol#0001",
+    "Telegram": "alexlol99",
+    "location": "ireland",
+    "age": "15, Born 11 September 2007",
+    "occupation": "freelance dev",
+    "operating_system": "windows, linux mint"
+    }
+```
