@@ -7,7 +7,7 @@
 </p> -->
 
 <p href="https://discord.gg/gjbduyrd" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/982733391365566485/>
+    <img alt="" src=https://lanyard.cnrad.dev/api/980198055376744489/>
 </p>
 
 <!-- GO CODE -->
@@ -17,11 +17,11 @@
 
 {
     "username": "alexlol",
-    "Discord": "alexlol#0001",
+    "Discord": "al3xlol.dev",
     "Telegram": "alexlol99",
     "location": "ireland",
     "age": "15, Born 11 September 2007",
     "occupation": "freelance dev",
-    "operating_system": "windows, linux mint"
+    "operating_system": ["windows", "linux mint"]
     }
 ```
