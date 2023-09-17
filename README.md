@@ -22,6 +22,6 @@
     "location": "ireland",
     "age": "15, Born 11 September 2007",
     "occupation": "freelance dev",
-    "operating_system": ["windows", "linux mint"]
+    "operating_system": ["windows", "kubuntu"]
     }
 ```
