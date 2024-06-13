@@ -20,7 +20,7 @@
     "Discord": "al3xlol.dev",
     "Telegram": "alexlol99",
     "location": "ireland",
-    "age": "15, Born 11 September 2007",
+    "age": "16, Born 11 September 2007",
     "occupation": "freelance dev",
     "operating_system": ["windows", "kubuntu"]
     }
