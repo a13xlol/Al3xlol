@@ -17,7 +17,7 @@
 
 {
     "username": "alexlol",
-    "Discord": "al3xlol.dev",
+    "Discord": "a13x.dev",
     "Telegram": "alexlol99",
     "location": "ireland",
     "age": "16, Born 11 September 2007",
