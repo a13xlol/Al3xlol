@@ -21,7 +21,7 @@
     "Telegram": "alexlol99",
     "location": "ireland",
     "age": "16, Born 11 September 2007",
-    "occupation": "freelance dev",
-    "operating_system": ["windows", "kubuntu"]
+    "occupation": "freelance dev/machinist", 
+    "operating_system": ["windows", "ubuntu"]
     }
 ```
